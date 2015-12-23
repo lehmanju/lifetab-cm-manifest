@@ -1,0 +1,1 @@
+# lifetab-cm-manifest
